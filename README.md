@@ -4,4 +4,4 @@
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg" width="200" 
      height="200"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Satellite_icon1.png" width="200" 
      height="200"> </p>
-<p>Criado por Lenon Silva de Oliveira</p>
+<p>&copy;Lenon Silva de Oliveira</p>
