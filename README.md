@@ -5,4 +5,4 @@
      height="150"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Satellite_icon1.png" width="150" 
      height="150"> </p>
 <hr>
-<p>&copy; 2022, Lenon Silva de Oliveira</p>
+<p>&copy; 2022 Lenon Oliveira</p>
