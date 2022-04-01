@@ -1,0 +1,20 @@
+import math
+
+
+print(f'5/2 = {5/2}')
+print(f'7 * 4 + 2 = {7 * 4 + 2}')
+print(f'(7 * 4) + 2 = {(7 * 4) + 2}')
+print(f'7 * (4 + 2) = {7 * (4 + 2)}')
+print(f'2 ** 3 = {2 ** 3}')
+print(f'2 ** 3 ** 4 = {2 ** 3 ** 4}')
+print(f'2 ** -3 ** 4 = {2 ** -3 ** 4}')
+print(f'5 % 2 = {5 % 2}')
+print(f'6 % 2 = {6 % 2}')
+print(f'7 % 2 = {7 % 2}')
+print(f'8 % 2 = {8 % 2}')
+print(f'5 + 1 = {5 + 1}')
+print(f'5.0 + 1 = {5.0 + 1}')
+print(f'5 * math.log10(100) - 8 ** 2= {math.log10(100)}')
+print(f'math.pi = {math.pi}')
+print(f'math.sin(math.pi / 2) = {math.sin(math.pi / 2)}')
+print(f'math.cos(math.pi / 4) = {math.cos(math.pi / 4)}')
